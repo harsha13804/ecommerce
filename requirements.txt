@@ -3,3 +3,5 @@ Flask-Cors
 PyMySQL
 Werkzeug
 gunicorn
+mysql-connector-python
+python-dotenv
